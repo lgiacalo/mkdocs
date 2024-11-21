@@ -1,0 +1,87 @@
+site_name: Lgiacalo
+
+# Navigation
+# nav:
+#   - Getting started:
+# - Installation: Getting started
+
+nav:
+  - Home: 
+      - index.md
+  - 42 Projects:
+      - Presentation: 42_projects.md
+      - Ft_select: 42_projects/ft_select.md
+      - Ft_malloc: 42_projects/ft_malloc.md
+      - Ft_nm_otool: 42_projects/ft_nm_otool.md
+      - Ft_init: 42_projects/ft_init.md
+      - Ft_linux: 42_projects/ft_linux.md
+      - Ft_ssl: 42_projects/ft_ssl.md
+      - Libft Asm: 42_projects/libftasm.md
+      - OCaml: 42_projects/ocaml.md
+      - Dr Quine: 42_projects/dr_quine.md
+      - Snowcrash: 42_projects/snow_crash.md
+      - Rainfall: 42_projects/rainfall.md
+      - Fdf: 42_projects/fdf.md
+      - Fractol: 42_projects/fractol.md
+      - Wolf3d: 42_projects/wolf3d.md
+
+# Theme
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    logo: material/library
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.expand
+  # palette:
+  #   scheme: default
+  #   primary: blue
+  #   accent: blue
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+# TBD
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  # - pymdownx.emoji:
+  # emoji_index: !!python/name:materialx.emoji.twemoji
+  # emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          # format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
