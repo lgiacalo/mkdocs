@@ -8,6 +8,11 @@ site_name: Lgiacalo
 nav:
   - Home: 
       - index.md
+  - Langages: 
+      - languages.md
+  - Concepts:
+      - Présentation: concepts.md
+      - Promise vs Observable: concepts/promise_vs_observable.md
   - 42 Projects:
       - Presentation: 42_projects.md
       - Ft_select: 42_projects/ft_select.md
