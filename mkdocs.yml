@@ -46,6 +46,8 @@ theme:
     - navigation.tabs
     - navigation.instant
     - navigation.expand
+    - content.action.edit
+    # - content.action.view
   # palette:
   #   scheme: default
   #   primary: blue
@@ -54,6 +56,7 @@ theme:
 # Plugins
 plugins:
   - search
+  - live-edit
 
 # Customization
 # TBD
