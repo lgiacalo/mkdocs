@@ -9,7 +9,8 @@ nav:
   - Home: 
       - index.md
   - Langages: 
-      - languages.md
+      - Présentation: languages.md
+      - Angular: languages/angular.md
   - Concepts:
       - Présentation: concepts.md
       - Promise vs Observable: concepts/promise_vs_observable.md
@@ -29,6 +30,9 @@ nav:
       - Fdf: 42_projects/fdf.md
       - Fractol: 42_projects/fractol.md
       - Wolf3d: 42_projects/wolf3d.md
+  - Vrac:
+      - vrac.md
+  - Contact: contact.md
 
 # Theme
 theme:
