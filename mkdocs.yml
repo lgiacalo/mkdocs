@@ -8,6 +8,7 @@ site_name: Lgiacalo
 nav:
   - Home: 
       - index.md
+  - CTF: ctf.md
   - Langages: 
       - Présentation: languages.md
       - Angular: languages/angular.md
@@ -33,6 +34,7 @@ nav:
   - Vrac:
       - vrac.md
   - Contact: contact.md
+  - MkDocs: mkdocs.md
 
 # Theme
 theme:
