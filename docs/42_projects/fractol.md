@@ -36,7 +36,7 @@ Pad Numerique :
 
 ## Pictures
 
-![fractol screenshot](../img/fractol1.png?raw=true)
-![fractol screenshot](../img/fractol2.png?raw=true)
-![fractol screenshot](../img/fractol3.png?raw=true)
-![fractol screenshot](../img/fractol4.png?raw=true)
+![fractol screenshot](../img/42/fractol1.png?raw=true)
+![fractol screenshot](../img/42/fractol2.png?raw=true)
+![fractol screenshot](../img/42/fractol3.png?raw=true)
+![fractol screenshot](../img/42/fractol4.png?raw=true)

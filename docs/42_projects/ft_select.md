@@ -12,4 +12,4 @@ Ce progamme utilise la bibliothèque termcaps, il permet de selectionner un ou p
     delete/backspace :          supprime un élément de la liste
     gestion du redimensionnement de la fenêtre
 
-![ft_select screenshot](../img/ft_select.png?raw=true)
+![ft_select screenshot](../img/42/ft_select.png?raw=true)

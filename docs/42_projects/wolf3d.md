@@ -39,5 +39,5 @@ top left.
 1 1 1 1 1
 ```
 
-![wolf3d screenshot](../img/wolf3d1.png?raw=true)
-![wolf3d screenshot](../img/wolf3d2.png?raw=true)
+![wolf3d screenshot](../img/42/wolf3d1.png?raw=true)
+![wolf3d screenshot](../img/42/wolf3d2.png?raw=true)
