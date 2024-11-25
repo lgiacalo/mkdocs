@@ -13,3 +13,5 @@
 [mkdocs.yml material](https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml)
 
 [Blog example](https://fernandocelmer.github.io/mkdocs-simple-blog/)
+
+[learnrxjs](https://www.learnrxjs.io/)

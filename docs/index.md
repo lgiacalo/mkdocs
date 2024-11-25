@@ -18,14 +18,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## WIP
 
-- Finir de mettre les projets de l'école 42
-- Modifier l'organisation des projets
-- Mettre en place un système de tags pour les projets
-- Decrire les differentes branches de 42, 
+- [ ] Finir de mettre les projets de l'école 42
+- [ ] Modifier l'organisation des projets
+- [ ] Mettre en place un système de tags pour les projets
+- [ ] Decrire les differentes branches de 42, 
 
 
-- Mettre les writeups des ctfs
-- Mettre en place le deploy automatique(commit) sur GitHub Pages
-- Customiser le theme Material
-- Mettre en place une documentation de tout ce que j'apprends
-- Changer l'icon du site
+- [ ] Mettre les writeups des ctfs
+- [ ] Mettre en place le deploy automatique(commit) sur GitHub Pages
+- [ ] Customiser le theme Material
+- [ ] Mettre en place une documentation de tout ce que j'apprends
+- [ ] Changer l'icon du site
+
+-  [ ] Rechercher solution pour remplir cv avec les commits effectués

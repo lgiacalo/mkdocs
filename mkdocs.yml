@@ -8,10 +8,13 @@ site_name: Lgiacalo
 nav:
   - Home: 
       - index.md
-  - CTF: ctf.md
+  - CTF: 
+      - Presentation: ctf.md
+      - OSINT: ctf/osint.md
   - Langages: 
       - Présentation: languages.md
       - Angular: languages/angular.md
+      - Tools: languages/tools.md
   - Concepts:
       - Présentation: concepts.md
       - Promise vs Observable: concepts/promise_vs_observable.md
